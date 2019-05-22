@@ -4,3 +4,4 @@ end
 
 def sort_array_desc(array)
   arry.sort {|a, b| b <=> a}
+end
